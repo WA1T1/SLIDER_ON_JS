@@ -1,0 +1,6 @@
+<div class="completed-main-right">
+                <div class="completed-buttons">
+                    <button class="completed-button completed-button-active">Rostov-on-Don, Admiral</button>
+                    <button class="completed-button">Sochi Thieves</button>
+                    <button class="completed-button">Rostov-on-Don Patriotic</button>
+                </div>
